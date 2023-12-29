@@ -1,4 +1,4 @@
-baseURL = 'https://tao67.github.io/blog/'
+baseURL = "https://tao67.github.io/blog/"
 languageCode = 'en-us'
 title = 'Payments411'
 theme = "beautifulhugo"
