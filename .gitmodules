@@ -1,0 +1,3 @@
+[submodule "payments411blog/themes/themes/beautifulhugo"]
+	path = payments411blog/themes/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
