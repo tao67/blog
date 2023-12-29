@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Payments411</title>
-    <link>https://payments411.github.io/</link>
+    <link>https://tao67.github.io/blog/</link>
     <description>Recent content on Payments411</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Dec 2023 10:20:18 +0100</lastBuildDate>
-    <atom:link href="https://payments411.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tao67.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>https://payments411.github.io/posts/mypost/</link>
+      <link>https://tao67.github.io/blog/posts/mypost/</link>
       <pubDate>Fri, 29 Dec 2023 10:20:18 +0100</pubDate>
-      <guid>https://payments411.github.io/posts/mypost/</guid>
+      <guid>https://tao67.github.io/blog/posts/mypost/</guid>
       <description>This is content</description>
     </item>
   </channel>
